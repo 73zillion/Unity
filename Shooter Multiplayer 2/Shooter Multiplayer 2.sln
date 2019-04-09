@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Multiplayer 2", "Shooter Multiplayer 2.csproj", "{D2AF8AA4-A561-9C88-4FB4-67A25C026F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Multiplayer 2.Plugins", "Shooter Multiplayer 2.Plugins.csproj", "{DBB2150E-7AD4-8A81-690B-11B040DA8F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Multiplayer 2.Editor", "Shooter Multiplayer 2.Editor.csproj", "{54DD58CC-BF3A-AE50-6ABA-CE52B7709FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AF8AA4-A561-9C88-4FB4-67A25C026F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AF8AA4-A561-9C88-4FB4-67A25C026F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AF8AA4-A561-9C88-4FB4-67A25C026F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AF8AA4-A561-9C88-4FB4-67A25C026F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB2150E-7AD4-8A81-690B-11B040DA8F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB2150E-7AD4-8A81-690B-11B040DA8F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB2150E-7AD4-8A81-690B-11B040DA8F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB2150E-7AD4-8A81-690B-11B040DA8F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DD58CC-BF3A-AE50-6ABA-CE52B7709FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DD58CC-BF3A-AE50-6ABA-CE52B7709FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DD58CC-BF3A-AE50-6ABA-CE52B7709FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DD58CC-BF3A-AE50-6ABA-CE52B7709FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

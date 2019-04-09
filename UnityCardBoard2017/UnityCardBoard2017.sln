@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityCardBoard2017", "UnityCardBoard2017.csproj", "{FCF1F419-1D98-FCE4-FB1A-4D2CBF06BB75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityCardBoard2017.Editor", "UnityCardBoard2017.Editor.csproj", "{A57B831C-622D-3641-B131-FF6BA163DDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF1F419-1D98-FCE4-FB1A-4D2CBF06BB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF1F419-1D98-FCE4-FB1A-4D2CBF06BB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF1F419-1D98-FCE4-FB1A-4D2CBF06BB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF1F419-1D98-FCE4-FB1A-4D2CBF06BB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57B831C-622D-3641-B131-FF6BA163DDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57B831C-622D-3641-B131-FF6BA163DDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57B831C-622D-3641-B131-FF6BA163DDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57B831C-622D-3641-B131-FF6BA163DDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
